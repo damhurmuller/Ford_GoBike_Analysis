@@ -56,6 +56,7 @@ We will analyzing some features in order to check especially the types of users 
 
 ## Python Libraries Used
 - **numpy**
+- **pandas**
 - **matplotlib**
 - **requests**
 - **seaborn**
